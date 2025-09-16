@@ -53,8 +53,8 @@ class _MessengerHomePageState extends State<MessengerHomePage> {
       initials: 'J',
     ),
     ChatItem(
-      name: 'Cristiano Ronaldo',
-      message: 'Jangan lupa makan siang',
+      name: 'Davina Karomoy',
+      message: 'Jangan lupa makan siang sayang',
       time: 'Kemarin',
       unreadCount: 1,
       initials: 'CR',
