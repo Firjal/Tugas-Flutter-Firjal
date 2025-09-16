@@ -57,7 +57,7 @@ class _MessengerHomePageState extends State<MessengerHomePage> {
       message: 'Jangan lupa makan siang sayang',
       time: 'Kemarin',
       unreadCount: 1,
-      initials: 'CR',
+      initials: 'DK',
     ),
     ChatItem(
       name: 'Kelas Flutter',
